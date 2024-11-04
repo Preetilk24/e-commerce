@@ -26,3 +26,12 @@ A full-stack e-commerce application built with MERN stack (MongoDB, Express.js, 
 ### Installation
 
 1. Clone the repository
+
+ ## screenshots
+
+![Screenshot 2024-11-04 190550](https://github.com/user-attachments/assets/de938172-7799-4db2-bdd2-83a78efac4af)
+
+
+
+
+![Screenshot 2024-11-04 190822](https://github.com/user-attachments/assets/8518cf6e-7e14-45a4-9fc8-7d66deedc918)
